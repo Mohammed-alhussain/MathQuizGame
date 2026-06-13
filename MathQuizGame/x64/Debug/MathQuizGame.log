@@ -1,4 +1,0 @@
-﻿  MathQuizGame.cpp
-C:\Users\Mohammed\source\repos\MathQuizGame\MathQuizGame\MathQuizGame.cpp(220,1): warning C4715: 'GetOpTypeSymbol': not all control paths return a value
-C:\Users\Mohammed\source\repos\MathQuizGame\MathQuizGame\MathQuizGame.cpp(188,1): warning C4715: 'GenerateQuestions': not all control paths return a value
-  MathQuizGame.vcxproj -> C:\Users\Mohammed\source\repos\MathQuizGame\x64\Debug\MathQuizGame.exe
